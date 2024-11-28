@@ -4,7 +4,7 @@ import base64
 import time
 
 # Server URL
-SERVER_URL = "http://localhost:5555"
+SERVER_URL = "http://54.167.60.89:5555"
 
 # Initialize SocketIO client
 sio = socketio.Client()
